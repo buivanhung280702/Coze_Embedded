@@ -5,9 +5,9 @@ import time
 from time import sleep
 import asyncio
 
-api_id = '25616146'  # Thay the v?i API ID cua b?n
-api_hash = '2a9896803ebea0b5adeff92643b7ad7a'  # Thay the v?i API Hash cua b?n
-bot_token = '6939367105:AAGrDy26zodC9SWzpSD_sOqu2upfLk2V6Ac'# mã token cua bot chat
+api_id = ''  # Thay the v?i API ID cua b?n
+api_hash = ''  # Thay the v?i API Hash cua b?n
+bot_token = ''# mã token cua bot chat
 
 # Thi?t l?p GPIO
 GPIO.setmode(GPIO.BCM)
