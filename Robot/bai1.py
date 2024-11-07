@@ -4,9 +4,9 @@ import time
 from time import sleep
 import asyncio
 
-api_id = '12767327'  # Thay thế với API ID của bạn
-api_hash = 'ab5eac1570321b4e4106c83e5d4d0967'  # Thay thế với API Hash của bạn
-bot_token = '6910494038:AAEODR6-qyCEnDwlYSUjMikNDPfdTCD6G5U'
+api_id = ''  # Thay thế với API ID của bạn
+api_hash = ''  # Thay thế với API Hash của bạn
+bot_token = ''
 
 # Thiết lập GPIO
 GPIO.setmode(GPIO.BCM)
