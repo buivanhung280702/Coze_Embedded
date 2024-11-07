@@ -2,9 +2,9 @@ from telethon import TelegramClient, events
 import asyncio
 import RPi.GPIO as GPIO
 import websockets
-api_id = '28741519'  # Thay thế với API ID của bạn
-api_hash = '13fd535bdc42a7c3af2ed201fb544eb6'  # Thay thế với API Hash của bạn
-bot_token = '7187467922:AAGVKkTdMTSwXdvRkWgNJdGvUnV5TCPyKnY'  # Thay thế với bot token của bạn
+api_id = ''  # Thay thế với API ID của bạn
+api_hash = ''  # Thay thế với API Hash của bạn
+bot_token = ''  # Thay thế với bot token của bạn
 
 # Tạo một instance của TelegramClient
 GPIO.setmode(GPIO.BCM)
